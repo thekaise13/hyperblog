@@ -1,5 +1,21 @@
 body {
+<<<<<<< HEAD
     color: deeppink;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+=======
+    color: #333;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    background: dimgrey;
+}
+#container {
+    width: 70%;
+    padding: 1rem;
+}
+span {
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 0.8rem;
+>>>>>>> cabecera
 }
